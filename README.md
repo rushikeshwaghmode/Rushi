@@ -30,7 +30,7 @@ How to install and Run project -  install it locally using npm
   </ul>
   
  ### Contributors - 
- ### Individual Project - Malhar Mane 
+ ### Individual Project - Rushikesh Waghmode
   
 
  
