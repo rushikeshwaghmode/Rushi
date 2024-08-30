@@ -1,8 +1,6 @@
 # Online Resume Builder 
 
-## OUTPUT -
 
-![VID_20230904185738](https://github.com/MalharMane/Almabetter-Resume-Builder-Capstone-Project-frontend/assets/104439115/104d9042-98d4-488d-8dec-1068a1f140a2)
 
 
  On Internet there are hundreds of resume Builder Websites but they all are paid Or loaded with  Advertisements and also Time consuming .
